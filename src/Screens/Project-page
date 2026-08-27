@@ -1,0 +1,10 @@
+function ProjectPage() {
+    return(
+        <section className="project-page">
+            <div className="project-container">
+                <h1>My Project</h1>
+            </div>
+        </section>
+    )
+
+}
